@@ -1,5 +1,5 @@
 package main
 
 func sumWithOne(x int) (result int) {
-	return result + 1
+	return x + 1
 }
